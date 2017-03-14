@@ -1,0 +1,21 @@
+{
+  "name": "page-demo",
+  "description": "李盛根的个人主页",
+  "main": "index.js",
+  "authors": [
+    "deployment"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/shenggen1987/page-demo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}

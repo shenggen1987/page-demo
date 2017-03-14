@@ -1,0 +1,19 @@
+{
+  "name": "page-demo",
+  "version": "1.0.0",
+  "description": "李盛根的个人主页",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenggen1987/page-demo.git"
+  },
+  "author": "deployment",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenggen1987/page-demo/issues"
+  },
+  "homepage": "https://github.com/shenggen1987/page-demo#readme"
+}
