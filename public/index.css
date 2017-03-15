@@ -1,0 +1,18 @@
+body{
+	font-family: arial,helvetica;
+	color: #F2F2F2;
+}
+h1{
+	font-size: 3em;
+}
+p{
+  text-indent: 2em;
+	font-size: 2em;
+}
+.navbar{
+	margin-bottom: 0;
+	border-radius: 0;
+	    position: fixed;
+    width: 100%;
+    z-index: 99;
+}

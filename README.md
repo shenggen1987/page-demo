@@ -23,5 +23,12 @@ step2:
 
 	bower install bootstrap --save
 
+----pages 分支创建并提交
+    git branch -b gh-pages
+    git add .
+    git commit -m 'all'
+    git push origin gh-pages
 
+===========fullpage 仿仟金顶首页，做一个个人简介     
+	bower install fullpage --save    
 
