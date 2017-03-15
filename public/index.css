@@ -3,9 +3,13 @@ body{
 	color: #F2F2F2;
 }
 h1{
+	padding-left: 15px;
+	padding-right: 15px;
 	font-size: 3em;
 }
 p{
+	padding-left: 15px;
+	padding-right: 15px;
   text-indent: 2em;
 	font-size: 2em;
 }
